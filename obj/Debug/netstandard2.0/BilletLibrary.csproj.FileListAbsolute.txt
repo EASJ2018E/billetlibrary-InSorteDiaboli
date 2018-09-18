@@ -7,3 +7,13 @@ C:\source\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.AssemblyInfoInput
 C:\source\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.AssemblyInfo.cs
 C:\source\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.dll
 C:\source\BilletLibrary\obj\Debug\netstandard2.0\BilletLibrary.pdb
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\bin\Debug\netstandard2.0\BilletLibrary.deps.json
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\bin\Debug\netstandard2.0\BilletLibrary.dll
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\bin\Debug\netstandard2.0\BilletLibrary.pdb
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\obj\Debug\netstandard2.0\BilletLibrary.csprojAssemblyReference.cache
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\obj\Debug\netstandard2.0\BilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\obj\Debug\netstandard2.0\BilletLibrary.AssemblyInfoInputs.cache
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\obj\Debug\netstandard2.0\BilletLibrary.AssemblyInfo.cs
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\obj\Debug\netstandard2.0\BilletLibrary.dll
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\obj\Debug\netstandard2.0\BilletLibrary.pdb
+C:\source\BilletLibrary\billetlibrary-InSorteDiaboli\bin\Debug\netstandard2.0\BilletLibrary.xml

@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\BilletLibrary\\BilletLibrary.csproj",
+      "projectUniqueName": "C:\\source\\BilletLibrary\\billetlibrary-InSorteDiaboli\\BilletLibrary.csproj",
       "projectName": "BilletLibrary",
-      "projectPath": "C:\\source\\BilletLibrary\\BilletLibrary.csproj",
+      "projectPath": "C:\\source\\BilletLibrary\\billetlibrary-InSorteDiaboli\\BilletLibrary.csproj",
       "packagesPath": "C:\\Users\\LouisVerond\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\BilletLibrary\\obj\\",
+      "outputPath": "C:\\source\\BilletLibrary\\billetlibrary-InSorteDiaboli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
