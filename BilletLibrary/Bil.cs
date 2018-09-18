@@ -10,8 +10,15 @@ namespace BilletLibrary
     /// <returns></returns>
     public class Bil : Køretøj
     {
-        public string Nummerplade { get; set; }
-        public DateTime Dato { get; set; }
+
+        public Bil()
+        {
+            
+        }
+
+        public Bil(string nummerplade, DateTime dato) : base(nummerplade, dato)
+        {
+        }
 
         /// <summary>
         /// Metode til at printe prisen på bilen
@@ -19,8 +26,7 @@ namespace BilletLibrary
         /// <returns></returns>
         public override decimal Pris()
         {
-            int pris = 240;
-            return pris;
+            return 240;
         }
 
         /// <summary>
@@ -29,8 +35,7 @@ namespace BilletLibrary
         /// <returns></returns>
         public override string KøretøjNavn()
         {
-            string bil = "Bil";
-            return bil;
+            return "Bil";
         }
     }
 

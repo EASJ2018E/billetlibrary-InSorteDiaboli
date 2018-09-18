@@ -10,8 +10,15 @@ namespace BilletLibrary
     /// <returns></returns>
     public class MC : Køretøj
     {
-        public string Nummerplade { get; set; }
-        public DateTime Dato { get; set; }
+        public MC(string nummerplade, DateTime dato) : base(nummerplade, dato)
+        {
+
+        }
+
+        public MC()
+        {
+            
+        }
 
         /// <summary>
         /// Metode til at printe prisen på MC
@@ -19,7 +26,7 @@ namespace BilletLibrary
         /// <returns></returns>
         public override decimal Pris()
         {
-            int pris = 125;
+            decimal pris = 125;
             return pris;
         }
 

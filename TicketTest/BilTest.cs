@@ -34,9 +34,22 @@ namespace BilletLibraryTest
         public void NummerpladeLength()
         {
             //Arrange
-            var bil = new Bil("SD121212", new DateTime(2018,2,2));
+            var bil = new Bil("SD121212", new DateTime(2018, 2, 2));
             //Act
+            
             //Assert
+            Assert.Fail();
+        }
+
+        [TestMethod]
+        public void TicketPrice()
+        {
+            //Arrange
+            var bil = new Bil();
+            //Act
+            var brobizz = bil.UsesBrobizz();
+            //Assert
+            Assert.AreEqual(228, brobizz);
         }
     }
 }
